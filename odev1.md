@@ -58,6 +58,7 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız. Big-O gösteri
 - [16,21] [8,11] [12,22]
 - [8,11,12,16,21,22]
 
+---
 
 - Proje 3 Binary Search Tree Projesi
 
